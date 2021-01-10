@@ -33,18 +33,19 @@ Some tools might be more useful at different stages of a company's development.
 | :------------ | :------------------------------------- |
 | Availability  | Self-host or hosted service            |
 | Documentation | http://redash.io/help                  |
-| GitHub        | http://github.com/getredash/redash     |
+| Repository    | http://github.com/getredash/redash     |
 | Deployment    | Service - Virtual Machine or Container |
 | Dependencies  | [PostgreSQL][], [Redis][]              |
 
 ### Renovate
 
-- Stay on top of dependency versions
+- Stay on top of dependency versions.
+- Automatically opens pull requests for newer versions of dependencies.
 
 |               |                                         |
 | :------------ | :-------------------------------------- |
 | Availability  | Self-host or hosted service             |
 | Documentation | https://renovatebot.com/                |
-| GitHub        | https://github.com/renovatebot/renovate |
+| Repository    | https://github.com/renovatebot/renovate |
 | Deployment    | CronJob - Virtual Machine or Container  |
 | Dependencies  | None                                    |
