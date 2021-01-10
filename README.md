@@ -1,7 +1,7 @@
 # startup-toolkit
 
 Starting a company or looking for some tooling to complement your existing applications?
-Here are some tools I've used and how they've helpped.
+Here are some tools I've used and how they've helped.
 
 ## The startup spectrum
 
@@ -11,7 +11,7 @@ A startup could also be a 30 person company with the start of sales and engineer
 As a result, this can cause ambiguity when referring to startups as a collective.
 
 In starting this list, I wanted to keep this fact in mind.
-Some tools might be more useful than.
+Some tools might be more useful at different stages of a company's development.
 
 ## Table of Contents
 
