@@ -1,0 +1,11 @@
+{
+  "name": "@mjpitz/startup-toolkit",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "2.2.1"
+  }
+}
