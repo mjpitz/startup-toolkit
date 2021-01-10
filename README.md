@@ -11,3 +11,6 @@ Currently starting this to track some of the tooling I've used and some of my ex
   - Construct visualizations to better display query data.
   - Create interactive dashboards from queries and visualizations.
   - Self-host or hosted service.
+  - Dependencies:
+    - [PostgreSQL](https://postgresql.org/)
+    - [Redis](https://redislabs.com/)
