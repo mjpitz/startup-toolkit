@@ -1,8 +1,7 @@
 # startup-toolkit
 
-Starting a company or looking for some tooling to complement your existing set?
-Hopefully some of this helps.
-Currently starting this to track some of the tooling I've used and some of my experiences.
+Starting a company or looking for some tooling to complement your existing applications?
+Here are some tools I've used and how they've helpped.
 
 - [Redash](http://github.com/getredash/redash)
   - Query across multiple data sources like databases, Google Analytics, and so much more.
