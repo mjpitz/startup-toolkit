@@ -16,6 +16,7 @@ Some tools might be more useful at different stages of a company's development.
 ## Table of Contents
 
 - [Redash](#Redash)
+- [Renovate](#Renovate)
 
 [postgresql]: https://postgresql.org
 [redis]: https://redislabs.com
@@ -28,10 +29,22 @@ Some tools might be more useful at different stages of a company's development.
 - Construct visualizations to better display query data.
 - Create interactive dashboards from queries and visualizations.
 
-|               |                                    |
-| :------------ | :--------------------------------- |
-| Availability  | Self-host or hosted service        |
-| Documentation | http://redash.io/help              |
-| GitHub        | http://github.com/getredash/redash |
-| Deployment    | Virtual Machine or Container       |
-| Dependencies  | [PostgreSQL][], [Redis][]          |
+|               |                                        |
+| :------------ | :------------------------------------- |
+| Availability  | Self-host or hosted service            |
+| Documentation | http://redash.io/help                  |
+| GitHub        | http://github.com/getredash/redash     |
+| Deployment    | Service - Virtual Machine or Container |
+| Dependencies  | [PostgreSQL][], [Redis][]              |
+
+### Renovate
+
+- Stay on top of dependency versions
+
+|               |                                         |
+| :------------ | :-------------------------------------- |
+| Availability  | Self-host or hosted service             |
+| Documentation | https://renovatebot.com/                |
+| GitHub        | https://github.com/renovatebot/renovate |
+| Deployment    | CronJob - Virtual Machine or Container  |
+| Dependencies  | None                                    |
